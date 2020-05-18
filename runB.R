@@ -19,5 +19,5 @@ dat <- list(N = 294,
                 C = C,
                 ones = numeric(36) + 1)
 
-fit <- stan(file='zibin_pp_o.stan', data = dat, iter = 10, chains = 1)
+fit <- stan(file='zibin_pp_o.stan', data = dat, iter = 100000,thin=100, chains = 3)
 save(fit, file="fitb.RData")
