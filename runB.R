@@ -1,9 +1,10 @@
 library(rstan)
 options(mc.cores = parallel::detectCores())
 rstan_options(auto_write = TRUE)
+
 C = as.matrix(read.csv('https://github.com/jmmorales/brady/raw/master/C.csv'))
-Ys = read.csv('https://github.com/jmmorales/lipids/raw/master/Y.csv')
-TT = as.matrix(read.csv('https://github.com/jmmorales/lipids/raw/master/TT.csv'))
+Ys = read.csv('https://github.com/jmmorales/brady/raw/master/Y.csv')
+TT = as.matrix(read.csv('https://github.com/jmmorales/brady/raw/master/TT.csv'))
 X = as.matrix(read.csv('https://github.com/jmmorales/brady/raw/master/X.csv'))
 
 dat <- list(N = 249,
