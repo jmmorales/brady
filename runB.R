@@ -8,12 +8,12 @@ TT = as.matrix(read.csv('https://github.com/jmmorales/brady/raw/master/TT.csv'))
 X = as.matrix(read.csv('https://github.com/jmmorales/brady/raw/master/X.csv'))
 
 dat <- list(N = 249,
-                Y = Y$Y,
-                total = Y$total,
+                Y = Ys$Y,
+                total = Ys$total,
                 X = X,
                 K = 4,
                 J = 36,
-                jj = Y$J_2,
+                jj = Ys$J_2,
                 L = 2,
                 TT = TT,
                 C = C,
