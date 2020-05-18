@@ -7,7 +7,7 @@ Ys = read.csv('https://github.com/jmmorales/brady/raw/master/Y.csv')
 TT = as.matrix(read.csv('https://github.com/jmmorales/brady/raw/master/TT.csv'))
 X = as.matrix(read.csv('https://github.com/jmmorales/brady/raw/master/X.csv'))
 
-dat <- list(N = 249,
+dat <- list(N = 294,
                 Y = Ys$Y,
                 total = Ys$total,
                 X = X,
