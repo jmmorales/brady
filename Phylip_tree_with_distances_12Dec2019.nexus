@@ -1,0 +1,46 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=36;
+	taxlabels
+	Clusia_rosea
+	'Clusia_sp.'
+	Clusia_alata
+	Casearia_decandra
+	Azara_microphylla
+	Aristotelia_chilensis
+	Maytenus_boaria
+	Prunus_serotina
+	'Prunus_sp.'
+	'Crataegus_sp.'
+	Elaeagnus_umbellata
+	Momordica_charantia
+	Monnina_pallida
+	Cupania_americana
+	'Sapindaceae_sp.'
+	Schinus_patagonicus
+	'Cissus_sp.'
+	Cissus_sicyoides
+	Berberis_thunbergii
+	Berberis_darwinii
+	Lindera_benzoin
+	'Hedyosmum_sp.'
+	Guapira_fragrans
+	Cornus_amomum
+	Cornus_racemosa
+	Cornus_florida
+	Cornus_peruviana
+	Ardisia_obovata
+	Sambucus_canadensis
+	Viburnum_prunifolium
+	Cordia_polycephala
+	Citharexylum_spinosum
+	'Psychotria_sp.'
+	Psychotria_nervosa
+	Palicourea_obovata
+	Galium_hypocarpium
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] ((((((((((Clusia_rosea:6.594999999999999,'Clusia_sp.':6.594999999999999):4.289999999999992,Clusia_alata:10.884999999999991):90.22999999999999,(Casearia_decandra:78.47499999999997,Azara_microphylla:78.47499999999997):22.640000000000015):10.265000000000015,Aristotelia_chilensis:111.38):0.11000000000001364,Maytenus_boaria:111.49000000000001):1.7699999999999818,(((((Prunus_serotina:23.215000000000003,'Prunus_sp.':23.215000000000003):59.079999999999984,'Crataegus_sp.':82.29499999999999):6.980000000000018,Elaeagnus_umbellata:89.275):16.659999999999997,Momordica_charantia:105.935):1.0600000000000307,Monnina_pallida:106.99500000000003):6.264999999999986):4.274999999999977,(((Cupania_americana:66.25,'Sapindaceae_sp.':66.25):4.689999999999998,Schinus_patagonicus:70.94):45.94,('Cissus_sp.':9.050000000000011,Cissus_sicyoides:9.050000000000011):107.83000000000001):0.6549999999999727):1.6299999999999955,(((((((('Psychotria_sp.':10.339999999999975,Psychotria_nervosa:10.339999999999975):4.5400000000000205,Palicourea_obovata:14.879999999999995):41.99000000000001,Galium_hypocarpium:56.870000000000005):16.5,Citharexylum_spinosum:73.37):1.6299999999999955,Cordia_polycephala:75.0):27.870000000000005,(Sambucus_canadensis:75.38499999999999,Viburnum_prunifolium:75.38499999999999):27.485000000000014):4.740000000000009,((((Cornus_amomum:5.490000000000009,Cornus_racemosa:5.490000000000009):30.670000000000016,Cornus_florida:36.160000000000025):14.074999999999989,Cornus_peruviana:50.235000000000014):55.44,Ardisia_obovata:105.67499999999998):1.9350000000000023):9.08499999999998,Guapira_fragrans:116.695):2.4700000000000273):17.734999999999985,(Berberis_thunbergii:49.065,Berberis_darwinii:49.065):87.83500000000001):21.86499999999998,(Lindera_benzoin:180.63,'Hedyosmum_sp.':207.44):21.86500000000001);
+end;

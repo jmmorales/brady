@@ -1,0 +1,295 @@
+plant_sp,plant_ID,Avg_N,Tot_Seed,Site,Pred,pred_cat,latitude,count,area,new_density,hemisphere,Seed_Mass,failures
+Ardisia_obovata,1,2.83,100,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.029,100
+Ardisia_obovata,2,4,100,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.029,100
+Ardisia_obovata,3,0.2,100,Puerto Rico,43,1,18.46,0.5,3200,1.5625,N,0.029,57
+Ardisia_obovata,4,0.47,100,Puerto Rico,56,1,18.46,0.5,3200,1.5625,N,0.029,44
+Ardisia_obovata,5,1.27,100,Puerto Rico,8,1,18.46,0.5,3200,1.5625,N,0.029,92
+Ardisia_obovata,6,0.3,100,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.029,100
+Ardisia_obovata,7,0.27,100,Puerto Rico,3,1,18.46,0.5,3200,1.5625,N,0.029,97
+Ardisia_obovata,8,0.53,100,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.029,100
+Ardisia_obovata,9,0.6,100,Puerto Rico,2,1,18.46,0.5,3200,1.5625,N,0.029,98
+Ardisia_obovata,10,0.73,100,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.029,100
+Aristotelia_chilensis,1,10,257,Argentina,0,0,41,,,328.5714286,S,0.356,257
+Aristotelia_chilensis,2,7,324,Argentina,0,0,41,,,328.5714286,S,0.356,324
+Aristotelia_chilensis,3,25,197,Argentina,0,0,41,,,328.5714286,S,0.356,197
+Aristotelia_chilensis,4,3,320,Argentina,0,0,41,,,328.5714286,S,0.356,320
+Aristotelia_chilensis,5,3,333,Argentina,0,0,41,,,328.5714286,S,0.356,333
+Aristotelia_chilensis,6,16.33333333,349,Argentina,0,0,41,,,328.5714286,S,0.356,349
+Aristotelia_chilensis,7,2.333333333,165,Argentina,0,0,41,,,328.5714286,S,0.356,165
+Aristotelia_chilensis,8,5,179,Argentina,0,0,41,,,328.5714286,S,0.356,179
+Aristotelia_chilensis,9,22,288,Argentina,0,0,41,,,328.5714286,S,0.356,288
+Aristotelia_chilensis,10,3.666666667,316,Argentina,0,0,41,,,328.5714286,S,0.356,316
+Azara_microphylla,1,25,224,Argentina,219,1,41,,,128.5714286,S,0.003,5
+Azara_microphylla,2,19.33333333,295,Argentina,15,1,41,,,128.5714286,S,0.003,280
+Azara_microphylla,3,4.333333333,357,Argentina,30,1,41,,,128.5714286,S,0.003,327
+Azara_microphylla,4,13,275,Argentina,72,1,41,,,128.5714286,S,0.003,203
+Azara_microphylla,5,25,278,Argentina,270,1,41,,,128.5714286,S,0.003,8
+Azara_microphylla,6,25,300,Argentina,294,1,41,,,128.5714286,S,0.003,6
+Azara_microphylla,7,17.66666667,299,Argentina,288,1,41,,,128.5714286,S,0.003,11
+Azara_microphylla,8,18,253,Argentina,6,1,41,,,128.5714286,S,0.003,247
+Azara_microphylla,9,18.33333333,237,Argentina,0,0,41,,,128.5714286,S,0.003,237
+Azara_microphylla,10,13.33333333,362,Argentina,9,1,41,,,128.5714286,S,0.003,353
+Berberis_darwinii,1,17,222,Argentina,27,1,41,,,14.28571429,S,0.005,195
+Berberis_darwinii,2,3.333333333,176,Argentina,21,1,41,,,14.28571429,S,0.005,155
+Berberis_darwinii,3,5.333333333,223,Argentina,21,1,41,,,14.28571429,S,0.005,202
+Berberis_darwinii,4,11.66666667,171,Argentina,18,1,41,,,14.28571429,S,0.005,153
+Berberis_darwinii,5,11.33333333,198,Argentina,19,1,41,,,14.28571429,S,0.005,179
+Berberis_darwinii,6,3.666666667,190,Argentina,20,1,41,,,14.28571429,S,0.005,170
+Berberis_darwinii,7,4.333333333,166,Argentina,19,1,41,,,14.28571429,S,0.005,147
+Berberis_darwinii,8,4,184,Argentina,24,1,41,,,14.28571429,S,0.005,160
+Berberis_thunbergii,1,25,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Berberis_thunbergii,2,0.5,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Berberis_thunbergii,3,0.43,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Berberis_thunbergii,4,1.5,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Berberis_thunbergii,5,1.83,100,Pennsylvania,1,1,40.16,32,3200,100,N,0.011,99
+Berberis_thunbergii,6,0.57,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Berberis_thunbergii,7,5.67,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Berberis_thunbergii,8,1.67,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Berberis_thunbergii,9,0.5,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Berberis_thunbergii,10,0.57,100,Pennsylvania,0,0,40.16,32,3200,100,N,0.011,100
+Casearia_decandra,1,2.33,121,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.14,121
+Casearia_decandra,2,3.17,185,Puerto Rico,7,1,18.46,0.5,3200,1.5625,N,0.14,178
+Casearia_decandra,3,18,162,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.14,162
+Casearia_decandra,4,4.97,151,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.14,151
+Casearia_decandra,5,4,124,Puerto Rico,2,1,18.46,0.5,3200,1.5625,N,0.14,122
+Casearia_decandra,6,5.4,110,Puerto Rico,4,1,18.46,0.5,3200,1.5625,N,0.14,106
+Casearia_decandra,7,2.87,153,Puerto Rico,4,1,18.46,0.5,3200,1.5625,N,0.14,149
+Casearia_decandra,8,8.75,161,Puerto Rico,3,1,18.46,0.5,3200,1.5625,N,0.14,158
+Casearia_decandra,9,2.1,145,Puerto Rico,3,1,18.46,0.5,3200,1.5625,N,0.14,142
+Casearia_decandra,10,25,150,Puerto Rico,1,1,18.46,0.5,3200,1.5625,N,0.14,149
+Cissus_sicyoides,1,9,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,2,25,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,3,25,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,4,10,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,5,8,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,6,25,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,7,9,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,8,25,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,9,20,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sicyoides,10,25,100,Puerto Rico,0,0,18.46,2,3200,6.25,N,0.03,100
+Cissus_sp,,1,10,Peru,1,1,10.55,1,3200,3.125,S,0.098,9
+Cissus_sp,,1,18,Peru,8,1,10.55,1,3200,3.125,S,0.098,10
+Cissus_sp,,1,49,Peru,16,1,10.55,1,3200,3.125,S,0.098,33
+Cissus_sp,,1,41,Peru,0,0,10.55,1,3200,3.125,S,0.098,41
+Cissus_sp,,1,70,Peru,15,1,10.55,1,3200,3.125,S,0.098,55
+Cissus_sp,,1,50,Peru,17,1,10.55,1,3200,3.125,S,0.098,33
+Cissus_sp,,1,3,Peru,0,0,10.55,1,3200,3.125,S,0.098,3
+Citharexylum_spinosum,1,25,100,Puerto Rico,19,1,18.46,18,3200,56.25,N,0.042,81
+Citharexylum_spinosum,2,25,100,Puerto Rico,13,1,18.46,18,3200,56.25,N,0.042,87
+Citharexylum_spinosum,3,25,100,Puerto Rico,16,1,18.46,18,3200,56.25,N,0.042,84
+Citharexylum_spinosum,4,25,100,Puerto Rico,9,1,18.46,18,3200,56.25,N,0.042,91
+Citharexylum_spinosum,5,25,100,Puerto Rico,3,1,18.46,18,3200,56.25,N,0.042,97
+Citharexylum_spinosum,6,25,100,Puerto Rico,3,1,18.46,18,3200,56.25,N,0.042,97
+Citharexylum_spinosum,7,25,100,Puerto Rico,3,1,18.46,18,3200,56.25,N,0.042,97
+Citharexylum_spinosum,8,25,100,Puerto Rico,5,1,18.46,18,3200,56.25,N,0.042,95
+Citharexylum_spinosum,9,25,100,Puerto Rico,8,1,18.46,18,3200,56.25,N,0.042,92
+Citharexylum_spinosum,10,25,100,Puerto Rico,6,1,18.46,18,3200,56.25,N,0.042,94
+Clusia_rosea,1,5.5,335,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,335
+Clusia_rosea,2,7.33,117,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,117
+Clusia_rosea,3,0.25,53,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,53
+Clusia_rosea,4,25,208,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,208
+Clusia_rosea,5,14,63,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,63
+Clusia_alata,1,,5,Peru,0,0,10.55,5,3200,15.625,S,0.075,5
+Clusia_alata,2,,6,Peru,2,1,10.55,5,3200,15.625,S,0.075,4
+Clusia_alata,3,,6,Peru,0,0,10.55,5,3200,15.625,S,0.075,6
+Clusia_alata,4,,7,Peru,3,1,10.55,5,3200,15.625,S,0.075,4
+Clusia_alata,5,,6,Peru,4,1,10.55,5,3200,15.625,S,0.075,2
+Clusia_alata,6,,5,Peru,1,1,10.55,5,3200,15.625,S,0.075,4
+Clusia_alata,7,,6,Peru,0,0,10.55,5,3200,15.625,S,0.075,6
+Clusia_alata,8,,5,Peru,1,1,10.55,5,3200,15.625,S,0.075,4
+Clusia_alata,9,,4,Peru,0,0,10.55,5,3200,15.625,S,0.075,4
+Clusia_alata,10,,7,Peru,0,0,10.55,5,3200,15.625,S,0.075,7
+Clusia_sp.,7,,4,Peru,0,0,10.55,1,3200,3.125,S,0.039,4
+Clusia_sp.,8,,7,Peru,0,0,10.55,1,3200,3.125,S,0.039,7
+Clusia_sp.,9,,3,Peru,0,0,10.55,1,3200,3.125,S,0.039,3
+Clusia_sp.,10,,6,Peru,0,0,10.55,1,3200,3.125,S,0.039,6
+Clusia_sp.,11,,6,Peru,0,0,10.55,1,3200,3.125,S,0.039,6
+Cornus_racemosa,1,1.43,100,Pennsylvania,1,1,40.16,15,3200,46.875,N,0.024,99
+Cornus_racemosa,2,3.83,100,Pennsylvania,0,0,40.16,15,3200,46.875,N,0.024,100
+Cornus_racemosa,3,7,100,Pennsylvania,0,0,40.16,15,3200,46.875,N,0.024,100
+Cornus_racemosa,4,1,100,Pennsylvania,1,1,40.16,15,3200,46.875,N,0.024,99
+Cornus_racemosa,5,0.3,100,Pennsylvania,0,0,40.16,15,3200,46.875,N,0.024,100
+Cornus_racemosa,6,0.93,100,Pennsylvania,0,0,40.16,15,3200,46.875,N,0.024,100
+Cornus_racemosa,7,0.5,100,Pennsylvania,0,0,40.16,15,3200,46.875,N,0.024,100
+Cornus_racemosa,8,2.17,100,Pennsylvania,0,0,40.16,15,3200,46.875,N,0.024,100
+Cornus_racemosa,9,0.2,100,Pennsylvania,0,0,40.16,15,3200,46.875,N,0.024,100
+Cornus_racemosa,10,1.83,100,Pennsylvania,0,0,40.16,15,3200,46.875,N,0.024,100
+Cornus_florida,1,25,100,Pennsylvania,0,0,40.16,5,3200,15.625,N,0.068,100
+Cornus_florida,2,25,100,Pennsylvania,0,0,40.16,5,3200,15.625,N,0.068,100
+Cornus_florida,3,25,200,Pennsylvania,0,0,40.16,5,3200,15.625,N,0.068,200
+Cornus_florida,4,25,86,Pennsylvania,0,0,40.16,5,3200,15.625,N,0.068,86
+Cornus_peruviana,,2,10,Peru,2,1,10.55,3,3200,9.375,S,0.076,8
+Cornus_peruviana,,1,65,Peru,9,1,10.55,3,3200,9.375,S,0.076,56
+Cornus_peruviana,,1,63,Peru,17,1,10.55,3,3200,9.375,S,0.076,46
+Cornus_peruviana,,1,65,Peru,6,1,10.55,3,3200,9.375,S,0.076,59
+Cornus_peruviana,,1,43,Peru,2,1,10.55,3,3200,9.375,S,0.076,41
+Cornus_peruviana,,1,49,Peru,2,1,10.55,3,3200,9.375,S,0.076,47
+Cornus_peruviana,,1,100,Peru,1,1,10.55,3,3200,9.375,S,0.076,99
+Cornus_peruviana,,1,101,Peru,2,1,10.55,3,3200,9.375,S,0.076,99
+Cornus_peruviana,,1,100,Peru,1,1,10.55,3,3200,9.375,S,0.076,99
+Cornus_peruviana,,1,68,Peru,23,1,10.55,3,3200,9.375,S,0.076,45
+Cornus_peruviana,,1,100,Peru,1,1,10.55,3,3200,9.375,S,0.076,99
+CORPOL,1,2.87,167,Puerto Rico,0,0,18.46,5,3200,15.625,N,0.03,167
+CORPOL,2,4.5,74,Puerto Rico,0,0,18.46,5,3200,15.625,N,0.03,74
+CORPOL,3,0.77,100,Puerto Rico,0,0,18.46,5,3200,15.625,N,0.03,100
+CORPOL,4,7.17,21,Puerto Rico,0,0,18.46,5,3200,15.625,N,0.03,21
+CORPOL,5,4.5,100,Puerto Rico,0,0,18.46,5,3200,15.625,N,0.03,100
+CORPOL,6,8,34,Puerto Rico,0,0,18.46,5,3200,15.625,N,0.03,34
+CORPOL,7,3,167,Puerto Rico,0,0,18.46,5,3200,15.625,N,0.03,167
+Cornus_racemosa,1,2.25,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.054,100
+Cornus_racemosa,2,4,200,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.054,200
+Cornus_racemosa,3,2.03,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.054,100
+Cornus_racemosa,4,0.37,200,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.054,200
+Cornus_racemosa,5,1.5,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.054,100
+Cornus_racemosa,6,2.5,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.054,100
+Cornus_racemosa,7,1.93,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.054,100
+Cornus_racemosa,8,8,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.054,100
+Crataegus_sp.,1,10,106,Pennsylvania,2,1,40.16,32,3200,100,N,0.0739,104
+Crataegus_sp.,2,8.33,213,Pennsylvania,0,0,40.16,32,3200,100,N,0.0739,213
+Crataegus_sp.,3,25,271,Pennsylvania,2,1,40.16,32,3200,100,N,0.0739,269
+Crataegus_sp.,4,11,339,Pennsylvania,2,1,40.16,32,3200,100,N,0.0739,337
+Crataegus_sp.,5,6.33,317,Pennsylvania,2,1,40.16,32,3200,100,N,0.0739,315
+Cupania_americana,1,12,100,Puerto Rico,3,1,18.46,3,3200,9.375,N,0.245,97
+Cupania_americana,2,14,100,Puerto Rico,0,0,18.46,3,3200,9.375,N,0.245,100
+Cupania_americana,3,6,100,Puerto Rico,1,1,18.46,3,3200,9.375,N,0.245,99
+Cupania_americana,4,11.67,100,Puerto Rico,1,1,18.46,3,3200,9.375,N,0.245,99
+Cupania_americana,5,9.5,100,Puerto Rico,2,1,18.46,3,3200,9.375,N,0.245,98
+Cupania_americana,6,20,100,Puerto Rico,0,0,18.46,3,3200,9.375,N,0.245,100
+Cupania_americana,7,4.17,100,Puerto Rico,0,0,18.46,3,3200,9.375,N,0.245,100
+Cupania_americana,8,16.67,100,Puerto Rico,0,0,18.46,3,3200,9.375,N,0.245,100
+Cupania_americana,9,25,100,Puerto Rico,0,0,18.46,3,3200,9.375,N,0.245,100
+Cupania_americana,10,2.5,100,Puerto Rico,0,0,18.46,3,3200,9.375,N,0.245,100
+ELAUMB,1,25,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,2,25,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,3,5,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,4,7.5,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,5,25,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,6,0.27,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,7,7.5,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,8,8.5,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,9,25,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Elaeagnus_umbellata,10,9.5,100,Pennsylvania,0,0,40.16,4,3200,12.5,N,0.014,100
+Galium_hypocarpium,1,25,93,Argentina,0,0,41,,,150,S,0.002,93
+Galium_hypocarpium,2,25,72,Argentina,0,0,41,,,150,S,0.002,72
+Galium_hypocarpium,3,25,134,Argentina,0,0,41,,,150,S,0.002,134
+Galium_hypocarpium,4,4,84,Argentina,0,0,41,,,150,S,0.002,84
+Galium_hypocarpium,5,25,58,Argentina,0,0,41,,,150,S,0.002,58
+Guapira_fragrans,1,25,100,Puerto Rico,12,1,18.46,0.5,3200,1.5625,N,0.21,88
+Guapira_fragrans,2,3.25,100,Puerto Rico,2,1,18.46,0.5,3200,1.5625,N,0.21,98
+Guapira_fragrans,3,25,100,Puerto Rico,5,1,18.46,0.5,3200,1.5625,N,0.21,95
+Guapira_fragrans,4,25,100,Puerto Rico,21,1,18.46,0.5,3200,1.5625,N,0.21,79
+Guapira_fragrans,5,2.25,100,Puerto Rico,8,1,18.46,0.5,3200,1.5625,N,0.21,92
+Guapira_fragrans,6,1.1,200,Puerto Rico,7,1,18.46,0.5,3200,1.5625,N,0.21,193
+Guapira_fragrans,7,25,200,Puerto Rico,6,1,18.46,0.5,3200,1.5625,N,0.21,194
+Hedyosmum_sp.,1,,5,Peru,0,0,10.55,3,3200,9.375,S,0.036,5
+Hedyosmum_sp.,2,,5,Peru,0,0,10.55,3,3200,9.375,S,0.036,5
+Hedyosmum_sp.,3,,7,Peru,0,0,10.55,3,3200,9.375,S,0.036,7
+Hedyosmum_sp.,4,,9,Peru,0,0,10.55,3,3200,9.375,S,0.036,9
+Hedyosmum_sp.,5,,7,Peru,0,0,10.55,3,3200,9.375,S,0.036,7
+Hedyosmum_sp.,6,,6,Peru,0,0,10.55,3,3200,9.375,S,0.036,6
+Hedyosmum_sp.,7,,6,Peru,0,0,10.55,3,3200,9.375,S,0.036,6
+Hedyosmum_sp.,8,,7,Peru,0,0,10.55,3,3200,9.375,S,0.036,7
+Hedyosmum_sp.,9,,6,Peru,0,0,10.55,3,3200,9.375,S,0.036,6
+Hedyosmum_sp.,10,,6,Peru,0,0,10.55,3,3200,9.375,S,0.036,6
+Hedyosmum_sp.,11,,7,Peru,0,0,10.55,3,3200,9.375,S,0.036,7
+Lindera_benzoin,1,1.77,200,Pennsylvania,0,0,40.16,109,3200,340.625,N,0.103,200
+Lindera_benzoin,2,1.77,200,Pennsylvania,0,0,40.16,109,3200,340.625,N,0.103,200
+Lindera_benzoin,3,1.6,100,Pennsylvania,0,0,40.16,109,3200,340.625,N,0.103,100
+Lindera_benzoin,4,2.57,100,Pennsylvania,0,0,40.16,109,3200,340.625,N,0.103,100
+Lindera_benzoin,5,3.33,100,Pennsylvania,0,0,40.16,109,3200,340.625,N,0.103,100
+Maytenus_boaria,1,10,100,Argentina,0,0,41,,,3,S,0.3,100
+Maytenus_boaria,2,6.333333333,100,Argentina,0,0,41,,,3,S,0.3,100
+Maytenus_boaria,3,5.333333333,100,Argentina,0,0,41,,,3,S,0.3,100
+Maytenus_boaria,4,11.33333333,100,Argentina,0,0,41,,,3,S,0.3,100
+Maytenus_boaria,5,19.66666667,100,Argentina,0,0,41,,,3,S,0.3,100
+Maytenus_boaria,6,8.666666667,100,Argentina,0,0,41,,,3,S,0.3,100
+Maytenus_boaria,7,25,100,Argentina,0,0,41,,,3,S,0.3,100
+Maytenus_boaria,8,12,100,Argentina,0,0,41,,,3,S,0.3,100
+Momordica_charantia,1,25,10,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,10
+Momordica_charantia,2,5,33,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,33
+Momordica_charantia,3,25,7,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,7
+Momordica_charantia,4,10.5,67,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,67
+Momordica_charantia,5,12.5,36,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,36
+Momordica_charantia,6,12,18,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,18
+Momordica_charantia,7,7,109,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,109
+Momordica_charantia,8,5,28,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,28
+Momordica_charantia,9,8,17,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,17
+Momordica_charantia,10,25,74,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,74
+Momordica_charantia,11,6,237,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,237
+Momordica_charantia,12,25,20,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,20
+Momordica_charantia,13,25,36,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,36
+Momordica_charantia,14,25,7,Puerto Rico,0,0,18.46,0.5,3200,1.5625,N,0.047,7
+Monina_palida,,,2,Peru,0,0,10.55,21,3200,65.625,S,0.02,2
+Monina_palida,,2,3,Peru,0,0,10.55,21,3200,65.625,S,0.02,3
+Monina_palida,,1,2,Peru,1,1,10.55,21,3200,65.625,S,0.02,1
+Monina_palida,,1,8,Peru,0,0,10.55,21,3200,65.625,S,0.02,8
+Monina_palida,,1,3,Peru,0,0,10.55,21,3200,65.625,S,0.02,3
+Monina_palida,,1,32,Peru,0,0,10.55,21,3200,65.625,S,0.02,32
+Monina_palida,,1,13,Peru,0,0,10.55,21,3200,65.625,S,0.02,13
+Monina_palida,,1,14,Peru,0,0,10.55,21,3200,65.625,S,0.02,14
+Monina_palida,,1,4,Peru,0,0,10.55,21,3200,65.625,S,0.02,4
+Palicourea_obovata,,2,60,Peru,40,1,10.55,8,3200,25,S,0.02,20
+Palicourea_obovata,,2,66,Peru,45,1,10.55,8,3200,25,S,0.02,21
+Palicourea_obovata,,2,39,Peru,12,1,10.55,8,3200,25,S,0.02,27
+Palicourea_obovata,,2,45,Peru,31,1,10.55,8,3200,25,S,0.02,14
+Palicourea_obovata,,2,54,Peru,42,1,10.55,8,3200,25,S,0.02,12
+Palicourea_obovata,,2,66,Peru,33,1,10.55,8,3200,25,S,0.02,33
+Palicourea_obovata,,2,10,Peru,6,1,10.55,8,3200,25,S,0.02,4
+Palicourea_obovata,,2,21,Peru,10,1,10.55,8,3200,25,S,0.02,11
+Prunus_sp.,,1,122,Peru,1,1,10.55,0.5,3200,1.5625,S,1,121
+Prunus_sp.,,1,130,Peru,5,1,10.55,0.5,3200,1.5625,S,1,125
+Prunus_sp.,,1,120,Peru,0,0,10.55,0.5,3200,1.5625,S,1,120
+Prunus_serotina,1,4.43,485,Pennsylvania,1,1,40.16,63,3200,196.875,N,0.085,484
+Prunus_serotina,2,5.17,191,Pennsylvania,0,0,40.16,63,3200,196.875,N,0.085,191
+Prunus_serotina,3,4.83,37,Pennsylvania,0,0,40.16,63,3200,196.875,N,0.085,37
+Prunus_serotina,4,2.83,88,Pennsylvania,0,0,40.16,63,3200,196.875,N,0.085,88
+Prunus_serotina,5,15.33,76,Pennsylvania,0,0,40.16,63,3200,196.875,N,0.085,76
+Prunus_serotina,6,8.17,187,Pennsylvania,0,0,40.16,63,3200,196.875,N,0.085,187
+Prunus_serotina,7,3.17,87,Pennsylvania,0,0,40.16,63,3200,196.875,N,0.085,87
+Prunus_serotina,8,12.33,105,Pennsylvania,0,0,40.16,63,3200,196.875,N,0.085,105
+Psychotria sp_palida,,2,26,Peru,4,1,10.55,10,3200,31.25,S,0.072,22
+Psychotria sp_palida,,2,22,Peru,9,1,10.55,10,3200,31.25,S,0.072,13
+Psychotria sp_palida,,2,15,Peru,4,1,10.55,10,3200,31.25,S,0.072,11
+Psychotria sp_palida,,2,8,Peru,0,0,10.55,10,3200,31.25,S,0.072,8
+Psychotria sp_palida,,2,107,Peru,17,1,10.55,10,3200,31.25,S,0.072,90
+Psychotria sp_palida,,2,53,Peru,23,1,10.55,10,3200,31.25,S,0.072,30
+Psychotria sp_palida,,2,99,Peru,9,1,10.55,10,3200,31.25,S,0.072,90
+Psychotria sp_palida,,2,105,Peru,18,1,10.55,10,3200,31.25,S,0.072,87
+Psychotria sp_palida,,2,112,Peru,22,1,10.55,10,3200,31.25,S,0.072,90
+Psychotria sp_palida,,2,107,Peru,17,1,10.55,10,3200,31.25,S,0.072,90
+Psychotria_nervosa,1,0.37,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,2,0.97,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,3,4.67,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,4,0.97,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,5,1.23,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,6,0.63,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,7,3.93,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,8,0.4,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,9,0.9,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Psychotria_nervosa,10,0.53,100,Puerto Rico,0,0,18.46,1,3200,3.125,N,0.011,100
+Sambucus_canadensis,1,1.4,200,Pennsylvania,0,0,40.16,2,3200,6.25,N,0.002,200
+Sambucus_canadensis,2,5.83,200,Pennsylvania,0,0,40.16,2,3200,6.25,N,0.002,200
+Sambucus_canadensis,3,0.47,100,Pennsylvania,0,0,40.16,2,3200,6.25,N,0.002,100
+Sambucus_canadensis,4,0.93,200,Pennsylvania,0,0,40.16,2,3200,6.25,N,0.002,200
+Sambucus_canadensis,5,0.27,100,Pennsylvania,0,0,40.16,2,3200,6.25,N,0.002,100
+Sambucus_canadensis,6,0.63,200,Pennsylvania,0,0,40.16,2,3200,6.25,N,0.002,200
+Schinus_patagonicus,1,6.333333333,99,Argentina,0,0,41,,,14.28571429,S,0.321,99
+Schinus_patagonicus,2,25,76,Argentina,0,0,41,,,14.28571429,S,0.321,76
+Schinus_patagonicus,3,15.33333333,75,Argentina,0,0,41,,,14.28571429,S,0.321,75
+Schinus_patagonicus,4,19.33333333,100,Argentina,0,0,41,,,14.28571429,S,0.321,100
+Schinus_patagonicus,5,25,100,Argentina,0,0,41,,,14.28571429,S,0.321,100
+Sipandeo,1,,12,Peru,1,1,10.55,0.5,3200,1.5625,S,0.01,11
+Sipandeo,2,,6,Peru,1,1,10.55,0.5,3200,1.5625,S,0.01,5
+Sipandeo,3,,3,Peru,0,0,10.55,0.5,3200,1.5625,S,0.01,3
+Sipandeo,4,,2,Peru,0,0,10.55,0.5,3200,1.5625,S,0.01,2
+Sipandeo,5,,2,Peru,0,0,10.55,0.5,3200,1.5625,S,0.01,2
+Sipandeo,6,,1,Peru,0,0,10.55,0.5,3200,1.5625,S,0.01,1
+Viburnum_prunifolium,1,0.83,200,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,200
+Viburnum_prunifolium,2,8.67,100,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,100
+Viburnum_prunifolium,3,3.5,100,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,100
+Viburnum_prunifolium,4,0.9,100,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,100
+Viburnum_prunifolium,5,13,100,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,100
+Viburnum_prunifolium,6,2.73,100,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,100
+Viburnum_prunifolium,7,1.23,100,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,100
+Viburnum_prunifolium,8,6,100,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,100
+Viburnum_prunifolium,9,0.83,100,Pennsylvania,0,0,40.16,6,3200,18.75,N,0.075,100
