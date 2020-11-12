@@ -25,8 +25,8 @@ head(datos)
 
 pred <- (datos$Pred) # depredated seeds
 density <- datos$new_density
-lat <- (datos$latitude - mean(datos$latitude))/sd(datos$latitude)
-hem <- as.numeric(datos$hemisphere) - 1 
+lat <- datos$latitude
+hem <- as.numeric(as.factor(datos$hemisphere)) - 1 
 log_seed_mass <- log(datos$Seed_Mass)
 site <- datos$Site
 total <- datos$Tot_Seed
@@ -52,7 +52,7 @@ N_2 <- max(J_2)
 
 
 library(rstan)
-Sys.setenv(LOCAL_CPPFLAGS = '-march=native')
+#Sys.setenv(LOCAL_CPPFLAGS = '-march=native')
 rstan_options(auto_write = TRUE)
 options(mc.cores = parallel::detectCores())
 
@@ -74,8 +74,13 @@ pr_dat <- list(N = N,
                log_seed_mass = as.numeric(scale(TT)),
                DistP = DistP/100)
 
-fit <- stan(file = 'zibin_pp_re.stan', data = pr_dat,
-             iter = 10000, thin = 5, chains = 3, control = list(max_treedepth = 15))
+fit <- stan(file = 'zibin_theta_res.stan', 
+            data = pr_dat,
+            iter = 50000, 
+            thin = 25, 
+            chains = 3, 
+            control = list(max_treedepth = 15)
+            )
 
 
 
@@ -88,7 +93,6 @@ res = 300
 he = 17
 wi = 17
 
-fitz_summary <- summary(fit)$summary
 
 # check R_hat
 hist(fit_summary[,10], 100)
@@ -98,15 +102,27 @@ hist(fit_summary[,9], 100)
 
 tmp <- which(fit_summary[,9] < 1000)
 
-print(fitz, pars = c("alpha", "beta", "rhosqp", "deltap", "etasqp", "zi"))
+print(fit, pars = c("a", "b",  "beta","betaz","rhosqp", "deltap", "etasqp", "az", "bz"))
 
-resz <- summary(fitz, pars = c("alpha", "beta", "rhosqp", "deltap", "etasqp", "zi"))$summary
-write.csv(resz, file = "reszi.csv")
+res <- summary(fit, pars = c("a", "b", "beta", "rhosqp", "deltap", "etasqp", "zi"))$summary
+write.csv(res, file = "reszi.csv")
 
 
 library(coda)
-new_y <- extract(fitz, pars = "y_pred")
+new_y <- extract(fit, pars = "y_pred")
+length(which(rowMeans(new_y$y_pred) > mean(Y)))/nrow(new_y$y_pred)
+
+sds = apply(new_y$y_pred, 1, sd)
+length(which(sds > sd(Y)))/nrow(new_y$y_pred)
+
+preds = extract(fit, pars = c("sr", "sr_rep"))
+plot(preds$sr, preds$sr_rep)
+abline(0,1)
+
+
+
 pred <- apply(new_y[[1]], 2, quantile, probs=c(0.025,0.5,0.975)) #the median line with 95% 
+
 
 tmp <- sort(lat, index.return = TRUE)
 
@@ -162,3 +178,40 @@ lines(xs * 100,  exp(- mean(rq$rhosq) * xs^2) , lwd = 3)
 par(op)
 #dev.off()
 #--------
+
+
+fitf <- stan(file = 'zibin_theta_pp_res.stan', 
+            data = pr_dat,
+            iter = 50000, 
+            thin = 25, 
+            chains = 3, 
+            control = list(max_treedepth = 15)
+)
+
+fit_summary <- summary(fitf)$summary
+
+# check R_hat
+hist(fit_summary[,10], 100)
+
+# check n_eff
+hist(fit_summary[,9], 100)
+
+tmp <- which(fit_summary[,9] < 1000)
+
+print(fitf, pars = c("a", "b",  "beta","betaz","rhosqp", "deltap", "etasqp", "az", "bz",
+                     "rhosqs", "deltas", "etasqs"))
+
+res <- summary(fit, pars = c("a", "b", "beta", "rhosqp", "deltap", "etasqp", "zi"))$summary
+write.csv(res, file = "reszi.csv")
+
+
+library(coda)
+new_y <- extract(fitf, pars = "y_pred")
+length(which(rowMeans(new_y$y_pred) > mean(Y)))/nrow(new_y$y_pred)
+
+sds = apply(new_y$y_pred, 1, sd)
+length(which(sds > sd(Y)))/nrow(new_y$y_pred)
+
+preds = extract(fitf, pars = c("sr", "sr_rep"))
+plot(preds$sr, preds$sr_rep)
+abline(0,1)
